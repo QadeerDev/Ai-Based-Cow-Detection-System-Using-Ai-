@@ -188,7 +188,8 @@ DOI: [10.5523/bris.10m32xl88x2b61zlkkgz3fml17](https://doi.org/10.5523/bris.10m3
 | Silent save failure | `cv2.VideoWriter` fails without raising an exception | Added `isOpened()` guard |
 
 ---
-
+## To get Weights follow this URL 
+https://drive.google.com/file/d/1Ew1Q1q0s3JcI0XK4VTwGWKM6Y2my9ZZ1/view?usp=drive_link
 ## Author
 
 **Muhammad Qadeer**  
