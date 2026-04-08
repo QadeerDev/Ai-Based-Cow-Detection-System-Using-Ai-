@@ -2,7 +2,7 @@
 
 **YOLOv8 · ByteTrack · OpenCows2020 · ROI Counting**
 
-Trained on the [OpenCows2020 dataset](https://data.bris.ac.uk/data/dataset/10m32xl88x2b61zlkkgz3fml17) (University of Bristol) — 11,779 overhead images of Holstein-Friesian cattle. Detects, tracks, and counts cows crossing a virtual ROI line in real-time CCTV footage.
+Trained on the [OpenCows2020 dataset](https://data.bris.ac.uk/data/dataset/10m32xl88x2b61zlkkgz3fml17) (University of Bristol) 11,779 overhead images of Holstein-Friesian cattle. Detects, tracks, and counts cows crossing a virtual ROI line in real-time CCTV footage.
 
 ---
 
@@ -16,11 +16,6 @@ Trained on the [OpenCows2020 dataset](https://data.bris.ac.uk/data/dataset/10m32
 
 ---
 
-## Demo
-
-> Add your output video or GIF here — `results/demo.gif`
-
----
 
 ## Folder Structure
 
